@@ -34,7 +34,9 @@
     </section>
 
     <footer class="footer">
-      <p class="has-text-centered">Copyright Group1(C)</p>
+
+      <p class="has-text-centered">Copyright Group1(C)2022</p>
+
     </footer>
     
   </div>
