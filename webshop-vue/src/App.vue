@@ -42,6 +42,7 @@
   </div>
 </template>
 <!-- responsive -->
+<script>
 export default {
   data(){
     return {
@@ -49,6 +50,7 @@ export default {
     }
   }
 }
+</script>
 
 <style lang="scss">
 @import '../node_modules/bulma';
