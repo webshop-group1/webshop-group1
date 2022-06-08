@@ -11,3 +11,4 @@ pillow 9.1.1
 
 bulma 1.0.1
 
+stripe 3.2.0
